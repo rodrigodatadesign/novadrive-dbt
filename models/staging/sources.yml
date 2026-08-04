@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: novadrive_stage
+    database: NOVADRIVE
+    schema: STAGE
+    tables:
+      - name: clientes
+      - name: veiculos
+      - name: vendedores
+      - name: concessionarias
+      - name: vendas
+      - name: cidades
+      - name: estados
