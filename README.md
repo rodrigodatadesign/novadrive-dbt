@@ -69,6 +69,7 @@ novadrive-dbt/
 ├── macros/
 ├── analyses/
 ├── tests/
+├── dashboard/          # final .pbix, consuming the marts above
 ├── dbt_project.yml
 └── README.md
 ```
